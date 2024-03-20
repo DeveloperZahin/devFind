@@ -1,0 +1,27 @@
+{
+    "name": "Abu Zahin Mohammad Nowsin",
+    "location": "Chittagong, Bangladesh",
+    "bio": "An enthusiastic software engineer from Bangladesh.",
+    "avatar": "https://avatars.githubusercontent.com/u/105446082?v=4",
+    "portfolio": "https://developerzahin.netlify.app/",
+    "skills": [
+      "Vue",
+      "Laravel",
+      "PHP",
+      "C++",
+      "Pest",
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "MySQL",
+      "Figma"
+    ],
+    "social": {
+      "GitHub": "https://github.com/DeveloperZahin",
+      "Twitter": "https://twitter.com/DeveloperZahin",
+      "LinkedIn": "https://www.linkedin.com/in/DeveloperZahin"
+    }
+  }
+  
